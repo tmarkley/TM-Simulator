@@ -1,6 +1,6 @@
 /* C++ program that simulated a Turing Machine.
 
-The TM should be stored on a file called TM.txt with the following format:
+The TM should be stored on a file with the following format:
 
 	First line is the number of states.
 
