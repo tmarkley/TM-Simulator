@@ -1,0 +1,12 @@
+4
+q1
+ha
+01
+q1 q1 11R
+q1 q2 0DR
+q3 q3 00L
+q3 q3 11L
+q3 q1 DDR
+q2 q2 11R
+q2 q3 0DL
+q2 ha DDS

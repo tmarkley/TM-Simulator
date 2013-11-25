@@ -1,0 +1,27 @@
+9
+qstart
+qaccept
+01X#
+qstart qstart DDR
+qstart q1 0XR
+q1 q1 11R
+q1 q1 00R
+q4 q5 1XL
+q1 q2 ##R
+q2 q2 XXR
+q2 q5 0XL
+qstart q3 1XR
+q3 q3 11R
+q5 q6 ##L
+q6 q6 11L
+q6 q6 00L
+q6 qstart XXR
+qstart q7 ##R
+q7 q7 XXR
+q7 qaccept DDR
+q3 q3 00R
+q3 q4 ##R
+q4 q4 XXR
+q5 q5 XXL
+q5 q5 11L
+q5 q5 00L

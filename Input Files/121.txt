@@ -1,0 +1,18 @@
+6
+1
+ha
+012x
+1 2 0DR
+1 5 xxR
+2 2 00R
+2 2 xxR
+2 4 1xR
+4 4 11R
+4 4 xxR
+4 3 2xL
+3 3 00L
+3 3 11L
+3 3 xxL
+3 1 DDR
+5 5 xxR
+5 ha DDS

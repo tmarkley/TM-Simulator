@@ -1,0 +1,25 @@
+7
+q1
+ha
+01#
+q1 q1 ##R
+q1 q2 00S
+q1 q2 11S
+q1 ha DDS
+q2 q2 ##R
+q2 q3 0#R
+q2 q5 1#R
+q2 q6 DDL
+q3 q3 ##R
+q3 q4 1#R
+q3 q2 00R
+q4 q4 ##R
+q4 q5 00R
+q4 q6 DDL
+q5 q5 ##R
+q5 q4 0#R
+q5 q2 11R
+q6 q6 00L
+q6 q6 11L
+q6 q6 ##L
+q6 q1 DDR

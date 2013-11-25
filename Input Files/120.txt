@@ -1,0 +1,17 @@
+7
+q1
+ha
+01$
+q1 q2 11L
+q1 ha DDS
+q1 q3 0$R
+q3 q3 00R
+q3 q4 11R
+q2 q2 $0L
+q2 q1 DDR
+q4 q4 11R
+q4 q5 DDL
+q5 q6 1DL
+q6 q6 11L
+q6 q6 00L
+q6 q1 $$R
